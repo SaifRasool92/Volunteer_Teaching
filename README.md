@@ -1,7 +1,9 @@
 # Volunteer_Teaching_Recordings
 Sharing expertise on [iCodeGuru](https://icode.guru/) with a focus on LeetCode, supporting the technical growth of underprivileged students. This repository features a curated collection of coding-related videos, created passionately and dedicated to empowering underprivileged students to thrive in the tech world.
-## Section Leaders training Week 2, 2025 CIP:
-- [Recording](https://drive.google.com/file/d/1zr_cp6FAMGQZKgk-soAwluIepBVz1PVb/view?usp=sharing)
+## Introduction to UC Berkeley CALICO Spring'25 at SZABIST Karachi
+- **[Recording](https://drive.google.com/file/d/1ZEVCOuPBkYBKY85I5QWb22CnycjZzFat/view?usp=sharing)**
+## Section Leaders training Week 2, 2025 CIP
+- **[Recording](https://drive.google.com/file/d/1zr_cp6FAMGQZKgk-soAwluIepBVz1PVb/view?usp=sharing)**
 ## Leetcode Lectures
 - Lecture 1: **[1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/656475807055397)**  
 - Lecture 2: **[35_Mins_recording_video](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1161836518686152)**  
