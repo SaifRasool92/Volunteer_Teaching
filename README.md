@@ -5,13 +5,13 @@ Sharing expertise on [iCodeGuru](https://icode.guru/) with a focus on LeetCode, 
 
 ## Introduction to UC Berkeley CALICO Spring'25 at SZABIST Karachi
 - **[Recording](https://drive.google.com/file/d/1ZEVCOuPBkYBKY85I5QWb22CnycjZzFat/view?usp=sharing)**
-## Section Leaders training Week 2, 2025 CIP
+## Section Leaders Training Week 2, Code In Place 2025
 - **[Recording](https://drive.google.com/file/d/1zr_cp6FAMGQZKgk-soAwluIepBVz1PVb/view?usp=sharing)**
-## Section Leaders training Week 5, 2025 CIP
+## Section Leaders Training Week 5, Code In Place 2025
 - **[Recording](https://drive.google.com/file/d/1UnYq2752H82UyitNA30qeH04636W1_lr/view?usp=sharing)**
-## Section Leaders Training Week 6, 2025 CIP
+## Section Leaders Training Week 6, Code In Place 2025
 - **[Recording](https://drive.google.com/file/d/1hCor_7adJRJIJGvoR7l5nC5F4dSh2oEg/view?usp=sharing)**
-## Python Crash Courese Lectures
+## Python Crash Course Lectures
 - Lecture 1: **[1_hour_recording_video](https://www.facebook.com/share/v/19JACLy2WH/)**
 - Lecture 2: **[1_hour_recording_video](https://www.facebook.com/share/v/1AhSpJbSmj/)**
 - Lecture 3: **[1_hour_recording_video](https://www.facebook.com/share/v/195fQkm732/)**
