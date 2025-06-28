@@ -8,12 +8,14 @@ Sharing expertise on [iCodeGuru](https://icode.guru/) with a focus on LeetCode, 
 - **[Recording](https://drive.google.com/file/d/1UnYq2752H82UyitNA30qeH04636W1_lr/view?usp=sharing)**
 ## Section Leaders Training Week 6, 2025 CIP
 - **[Recording](https://drive.google.com/file/d/1hCor_7adJRJIJGvoR7l5nC5F4dSh2oEg/view?usp=sharing)**
+## Python Crash Courese Lectures
+- Lecture 1: **[1_hour recording video](https://www.facebook.com/share/v/19JACLy2WH/)**
+- Lecture 2: **[1 hour recording video](https://www.facebook.com/share/v/1AhSpJbSmj/)**
+- Lecture 3: **[1 hour recording video](https://www.facebook.com/share/v/195fQkm732/)**
 ## Leetcode Lectures
 - Lecture 1: **[1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/656475807055397)**  
 - Lecture 2: **[35_Mins_recording_video](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1161836518686152)**  
 - Lecture 3: **[20 Mins_recording_video](https://www.facebook.com/share/v/19zV1gcsPi/)**  
 - Lecture 4: **[1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/625864710064633)**
 - Lecture 5: **[25_min_recording](https://www.facebook.com/iCodeguru/videos/1460016921845210/)**
-# • Section Leader at Stanford University Code in Place
-![Section Page]
-(https://drive.google.com/uc?export=view&id=1oeQlukiUQk_mIBWqarZBdJneoHIcCCTm)
+
