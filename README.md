@@ -14,3 +14,6 @@ Sharing expertise on [iCodeGuru](https://icode.guru/) with a focus on LeetCode, 
 - Lecture 3: **[20 Mins_recording_video](https://www.facebook.com/share/v/19zV1gcsPi/)**  
 - Lecture 4: **[1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/625864710064633)**
 - Lecture 5: **[25_min_recording](https://www.facebook.com/iCodeguru/videos/1460016921845210/)**
+# • Section Leader at Stanford University Code in Place
+![Section Page]
+(https://drive.google.com/uc?export=view&id=1oeQlukiUQk_mIBWqarZBdJneoHIcCCTm)
