@@ -9,9 +9,9 @@ Sharing expertise on [iCodeGuru](https://icode.guru/) with a focus on LeetCode, 
 ## Section Leaders Training Week 6, 2025 CIP
 - **[Recording](https://drive.google.com/file/d/1hCor_7adJRJIJGvoR7l5nC5F4dSh2oEg/view?usp=sharing)**
 ## Python Crash Courese Lectures
-- Lecture 1: **[1_hour recording video](https://www.facebook.com/share/v/19JACLy2WH/)**
-- Lecture 2: **[1 hour recording video](https://www.facebook.com/share/v/1AhSpJbSmj/)**
-- Lecture 3: **[1 hour recording video](https://www.facebook.com/share/v/195fQkm732/)**
+- Lecture 1: **[1_hour_recording_video](https://www.facebook.com/share/v/19JACLy2WH/)**
+- Lecture 2: **[1_hour_recording_video](https://www.facebook.com/share/v/1AhSpJbSmj/)**
+- Lecture 3: **[1_hour_recording_video](https://www.facebook.com/share/v/195fQkm732/)**
 ## Leetcode Lectures
 - Lecture 1: **[1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/656475807055397)**  
 - Lecture 2: **[35_Mins_recording_video](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1161836518686152)**  
