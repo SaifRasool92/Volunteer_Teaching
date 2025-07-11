@@ -17,6 +17,7 @@ Sharing expertise on [iCodeGuru](https://icode.guru/) with a focus on LeetCode, 
 - Lecture 3: **[1_hour_recording_video](https://www.facebook.com/share/v/195fQkm732/)**
 - Lecture 4: **[1_hour_recording_video](https://www.facebook.com/share/v/1Byu34QYGo/)**
 - Lecture 5: **[1_hour_recording_video](https://www.facebook.com/share/v/19JPkvGrBz/)**
+- Lecture 6: **[1_hour_recording_video](https://www.facebook.com/share/v/1Nv4ofey1K/)**
 ## Leetcode Lectures
 - Lecture 1: **[1_hour_recording_video](https://www.facebook.com/iCodeguru/videos/656475807055397)**  
 - Lecture 2: **[35_Mins_recording_video](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1161836518686152)**  
