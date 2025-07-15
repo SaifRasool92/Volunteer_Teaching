@@ -5,7 +5,6 @@ Sharing expertise on [iCodeGuru](https://icode.guru/) with a focus on LeetCode, 
 
 ## Introduction to UC Berkeley CALICO Spring'25 at SZABIST Karachi
 - **[Recording](https://drive.google.com/file/d/1ZEVCOuPBkYBKY85I5QWb22CnycjZzFat/view?usp=sharing)**
-  
 ## Section Leaders Training Week 2, Code In Place 2025
 - **[Recording](https://drive.google.com/file/d/1zr_cp6FAMGQZKgk-soAwluIepBVz1PVb/view?usp=sharing)**
 ## Section Leaders Training Week 5, Code In Place 2025
